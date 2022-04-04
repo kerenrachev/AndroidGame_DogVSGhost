@@ -180,15 +180,18 @@ public class Activity_Game extends AppCompatActivity {
         runOnUiThread(new Runnable() {
             @Override
             public void run() {
+
+                // Set img src to null
+                int currentPlayerIndex = gameManager.getCurrentPlayerIndex();
+                blocks.get(currentPlayerIndex).setImageDrawable(null);
+                int currentGhostIndex = gameManager.getCurrenGhostIndex();
+                blocks.get(currentGhostIndex).setImageDrawable(null);
+
                 // Player
-                int currentIndex = gameManager.getCurrentPlayerIndex();
-                blocks.get(currentIndex).setImageDrawable(null);
                 int nextIndex = gameManager.setNextPlayerIndex(currentPlayerDirection).getCurrentPlayerIndex();
                 blocks.get(nextIndex).setImageResource(currentPlayer);
 
                 //Ghost
-                int currentGhostIndex = gameManager.getCurrenGhostIndex();
-                blocks.get(currentGhostIndex).setImageDrawable(null);
                 int nextGhostIndex = gameManager.nextGhostIndex().getCurrenGhostIndex();
                 blocks.get(nextGhostIndex).setImageResource(rotateEnemy());
             }
