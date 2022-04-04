@@ -21,6 +21,7 @@ import java.util.TimerTask;
 
 public class Activity_Game extends AppCompatActivity {
 
+
     private MaterialToolbar toolbar;
     private ExtendedFloatingActionButton main_FAB_action;
     private MaterialTextView main_LBL_info;
