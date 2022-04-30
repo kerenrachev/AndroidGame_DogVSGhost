@@ -3,7 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/keren/AndroidStudioProjects/AndroidGame_DogVSGhost/app/src/main/res/layout/activity_fragment_google_maps.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/keren/AndroidStudioProjects/AndroidGame_DogVSGhost/app/src/main/res/layout/activity_fragment_map.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/keren/AndroidStudioProjects/AndroidGame_DogVSGhost/app/src/main/res/layout/activity_fragment_players.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/keren/AndroidStudioProjects/AndroidGame_DogVSGhost/app/src/main/res/layout/activity_game.xml" value="0.1859375" />
+        <entry key="..\:/Users/keren/AndroidStudioProjects/AndroidGame_DogVSGhost/app/src/main/res/layout/activity_game_buttons.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/keren/AndroidStudioProjects/AndroidGame_DogVSGhost/app/src/main/res/layout/activity_game_sensors.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/keren/AndroidStudioProjects/AndroidGame_DogVSGhost/app/src/main/res/layout/activity_google_maps.xml" value="0.1859375" />
         <entry key="..\:/Users/keren/AndroidStudioProjects/AndroidGame_DogVSGhost/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/keren/AndroidStudioProjects/AndroidGame_DogVSGhost/app/src/main/res/layout/activity_main2.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/keren/AndroidStudioProjects/AndroidGame_DogVSGhost/app/src/main/res/layout/activity_maps.xml" value="0.1859375" />
+        <entry key="..\:/Users/keren/AndroidStudioProjects/AndroidGame_DogVSGhost/app/src/main/res/layout/activity_topten.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/keren/AndroidStudioProjects/AndroidGame_DogVSGhost/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.229" />
       </map>
     </option>
   </component>
