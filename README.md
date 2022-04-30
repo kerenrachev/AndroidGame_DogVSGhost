@@ -1,4 +1,4 @@
-# AndroidGame_DogVSGhost
+# GhostRun game
 Video of  the game : 
 
 
